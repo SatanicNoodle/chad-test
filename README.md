@@ -1,2 +1,2 @@
 # chad-test
-its just a number game man
+its just a numbers game man
